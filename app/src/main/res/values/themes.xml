@@ -1,0 +1,18 @@
+<resources>
+   <style name="Theme.Dotty" parent="Theme.AppCompat.Light.DarkActionBar">
+      <item name="colorPrimary">@color/purple_500</item>
+      <item name="colorPrimaryDark">@color/purple_700</item>
+      <item name="colorAccent">@color/purple_300</item>
+   </style>
+
+   <style name="primaryLabel">
+      <item name="android:textSize">20sp</item>
+      <item name="android:textColor">@color/purple_300</item>
+      <item name="android:layout_marginTop">20dp</item>
+   </style>
+
+   <style name="number">
+      <item name="android:textSize">30sp</item>
+      <item name="android:textColor">@color/purple_700</item>
+   </style>
+</resources>
